@@ -380,7 +380,6 @@ int main()
     std::cout << "-----------------------------" << std::endl;
 	std::cout << "---Lesous Apex Legends DMA---" << std::endl;
 	std::cout << "-----------------------------" << std::endl;
-    std::thread renderThread(Render, Myself, Players, GameCamera, Spectators, AimAssist, ESP);
 	// Initialize DMA
 	if (!mem.Init("r5apex.exe", true, false))
 	{
