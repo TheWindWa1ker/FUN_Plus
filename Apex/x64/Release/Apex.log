@@ -1,0 +1,269 @@
+﻿  Render.cpp
+D:\ApexDMA\DMALibrary\libs\leechcore.h(122,11): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“Render.cpp”)
+  D:\ApexDMA\DMALibrary\libs\leechcore.h(122,11):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+D:\ApexDMA\DMALibrary\libs\leechcore.h(489,10): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“Render.cpp”)
+  D:\ApexDMA\DMALibrary\libs\leechcore.h(489,10):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+D:\ApexDMA\DMALibrary\libs\leechcore.h(498,10): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“Render.cpp”)
+  D:\ApexDMA\DMALibrary\libs\leechcore.h(498,10):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+D:\ApexDMA\DMALibrary\libs\vmmdll.h(392,35): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“Render.cpp”)
+  D:\ApexDMA\DMALibrary\libs\vmmdll.h(392,35):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+D:\ApexDMA\DMALibrary\libs\vmmdll.h(1454,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“Render.cpp”)
+  D:\ApexDMA\DMALibrary\libs\vmmdll.h(1454,25):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+D:\ApexDMA\DMALibrary\libs\vmmdll.h(1464,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“Render.cpp”)
+  D:\ApexDMA\DMALibrary\libs\vmmdll.h(1464,25):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+D:\ApexDMA\DMALibrary\libs\vmmdll.h(1471,27): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“Render.cpp”)
+  D:\ApexDMA\DMALibrary\libs\vmmdll.h(1471,27):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+D:\ApexDMA\DMALibrary\libs\vmmdll.h(1480,28): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“Render.cpp”)
+  D:\ApexDMA\DMALibrary\libs\vmmdll.h(1480,28):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+D:\ApexDMA\DMALibrary\libs\vmmdll.h(1489,36): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“Render.cpp”)
+  D:\ApexDMA\DMALibrary\libs\vmmdll.h(1489,36):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+D:\ApexDMA\DMALibrary\libs\vmmdll.h(1505,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“Render.cpp”)
+  D:\ApexDMA\DMALibrary\libs\vmmdll.h(1505,25):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+D:\ApexDMA\DMALibrary\libs\vmmdll.h(1515,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“Render.cpp”)
+  D:\ApexDMA\DMALibrary\libs\vmmdll.h(1515,25):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+D:\ApexDMA\DMALibrary\libs\vmmdll.h(1524,26): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“Render.cpp”)
+  D:\ApexDMA\DMALibrary\libs\vmmdll.h(1524,26):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+D:\ApexDMA\DMALibrary\libs\vmmdll.h(1532,31): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“Render.cpp”)
+  D:\ApexDMA\DMALibrary\libs\vmmdll.h(1532,31):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+D:\ApexDMA\DMALibrary\libs\vmmdll.h(1539,28): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“Render.cpp”)
+  D:\ApexDMA\DMALibrary\libs\vmmdll.h(1539,28):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+D:\ApexDMA\DMALibrary\libs\vmmdll.h(1548,28): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“Render.cpp”)
+  D:\ApexDMA\DMALibrary\libs\vmmdll.h(1548,28):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+D:\ApexDMA\DMALibrary\libs\vmmdll.h(1559,26): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“Render.cpp”)
+  D:\ApexDMA\DMALibrary\libs\vmmdll.h(1559,26):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+D:\ApexDMA\DMALibrary\libs\vmmdll.h(1568,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“Render.cpp”)
+  D:\ApexDMA\DMALibrary\libs\vmmdll.h(1568,25):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+D:\ApexDMA\DMALibrary\libs\vmmdll.h(1576,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“Render.cpp”)
+  D:\ApexDMA\DMALibrary\libs\vmmdll.h(1576,29):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+D:\ApexDMA\DMALibrary\libs\vmmdll.h(1585,26): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“Render.cpp”)
+  D:\ApexDMA\DMALibrary\libs\vmmdll.h(1585,26):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+D:\ApexDMA\DMALibrary\libs\vmmdll.h(1594,24): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“Render.cpp”)
+  D:\ApexDMA\DMALibrary\libs\vmmdll.h(1594,24):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+D:\ApexDMA\DMALibrary\libs\vmmdll.h(1603,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“Render.cpp”)
+  D:\ApexDMA\DMALibrary\libs\vmmdll.h(1603,29):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+D:\ApexDMA\DMALibrary\libs\vmmdll.h(2138,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“Render.cpp”)
+  D:\ApexDMA\DMALibrary\libs\vmmdll.h(2138,25):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+D:\ApexDMA\Vector2D.hpp(85,23): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“Render.cpp”)
+  
+D:\ApexDMA\Vector3D.hpp(84,23): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“Render.cpp”)
+  
+D:\ApexDMA\Camera.hpp(41,30): warning C4244: “*=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“Render.cpp”)
+  
+D:\ApexDMA\Camera.hpp(42,30): warning C4244: “*=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“Render.cpp”)
+  
+D:\ApexDMA\HidTable.hpp(119,1): warning C4005: “KEY_EXECUTE”: 宏重定义
+  (编译源文件“Render.cpp”)
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(23266,1):
+  参见“KEY_EXECUTE”的前一个定义
+  
+D:\ApexDMA\KmboxB.h(240,33): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“Render.cpp”)
+  
+D:\ApexDMA\KmboxB.h(351,33): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“Render.cpp”)
+  
+D:\ApexDMA\KmboxB.h(530,34): warning C4018: “>”: 有符号/无符号不匹配
+  (编译源文件“Render.cpp”)
+  
+D:\ApexDMA\Conversion.hpp(6,28): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“Render.cpp”)
+  
+D:\ApexDMA\Conversion.hpp(10,26): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“Render.cpp”)
+  
+D:\ApexDMA\Aimbot.hpp(39,23): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“Render.cpp”)
+  
+D:\ApexDMA\Aimbot.hpp(116,43): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“Render.cpp”)
+  
+D:\ApexDMA\Aimbot.hpp(129,43): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“Render.cpp”)
+  
+D:\ApexDMA\Aimbot.hpp(136,43): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“Render.cpp”)
+  
+D:\ApexDMA\Aimbot.hpp(144,43): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“Render.cpp”)
+  
+D:\ApexDMA\Aimbot.hpp(150,43): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“Render.cpp”)
+  
+D:\ApexDMA\Aimbot.hpp(208,87): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“Render.cpp”)
+  
+D:\ApexDMA\Aimbot.hpp(258,87): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“Render.cpp”)
+  
+D:\ApexDMA\Aimbot.hpp(282,28): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“Render.cpp”)
+  
+D:\ApexDMA\Aimbot.hpp(306,30): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“Render.cpp”)
+  
+D:\ApexDMA\Aimbot.hpp(306,22): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“Render.cpp”)
+  
+D:\ApexDMA\Aimbot.hpp(403,87): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“Render.cpp”)
+  
+D:\ApexDMA\Aimbot.hpp(492,64): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“Render.cpp”)
+  
+D:\ApexDMA\Aimbot.hpp(507,35): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“Render.cpp”)
+  
+D:\ApexDMA\Aimbot.hpp(527,27): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“Render.cpp”)
+  
+D:\ApexDMA\Glow.hpp(133,13): warning C4838: 从“int”转换到“_Ty”需要收缩转换
+D:\ApexDMA\Glow.hpp(133,13): warning C4838:         with
+D:\ApexDMA\Glow.hpp(133,13): warning C4838:         [
+D:\ApexDMA\Glow.hpp(133,13): warning C4838:             _Ty=unsigned char
+D:\ApexDMA\Glow.hpp(133,13): warning C4838:         ]
+  (编译源文件“Render.cpp”)
+  
+D:\ApexDMA\Glow.hpp(134,13): warning C4838: 从“int”转换到“_Ty”需要收缩转换
+D:\ApexDMA\Glow.hpp(134,13): warning C4838:         with
+D:\ApexDMA\Glow.hpp(134,13): warning C4838:         [
+D:\ApexDMA\Glow.hpp(134,13): warning C4838:             _Ty=unsigned char
+D:\ApexDMA\Glow.hpp(134,13): warning C4838:         ]
+  (编译源文件“Render.cpp”)
+  
+D:\ApexDMA\Glow.hpp(135,13): warning C4838: 从“int”转换到“_Ty”需要收缩转换
+D:\ApexDMA\Glow.hpp(135,13): warning C4838:         with
+D:\ApexDMA\Glow.hpp(135,13): warning C4838:         [
+D:\ApexDMA\Glow.hpp(135,13): warning C4838:             _Ty=unsigned char
+D:\ApexDMA\Glow.hpp(135,13): warning C4838:         ]
+  (编译源文件“Render.cpp”)
+  
+D:\ApexDMA\Config.hpp(161,34): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“Render.cpp”)
+  
+D:\ApexDMA\Config.hpp(164,34): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“Render.cpp”)
+  
+D:\ApexDMA\Config.hpp(167,34): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“Render.cpp”)
+  
+D:\ApexDMA\Config.hpp(170,34): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“Render.cpp”)
+  
+D:\ApexDMA\Config.hpp(173,34): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“Render.cpp”)
+  
+D:\ApexDMA\Config.hpp(176,34): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“Render.cpp”)
+  
+D:\ApexDMA\Config.hpp(179,34): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“Render.cpp”)
+  
+D:\ApexDMA\Config.hpp(182,34): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“Render.cpp”)
+  
+D:\ApexDMA\Config.hpp(185,34): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“Render.cpp”)
+  
+D:\ApexDMA\Config.hpp(197,40): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“Render.cpp”)
+  
+D:\ApexDMA\Config.hpp(200,49): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“Render.cpp”)
+  
+D:\ApexDMA\Render.cpp(326,28): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\ApexDMA\Render.cpp(721,67): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\ApexDMA\Render.cpp(722,67): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\ApexDMA\Render.cpp(723,67): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\ApexDMA\Render.cpp(734,70): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\ApexDMA\Render.cpp(735,70): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\ApexDMA\Render.cpp(736,70): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\ApexDMA\Render.cpp(747,66): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\ApexDMA\Render.cpp(748,66): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\ApexDMA\Render.cpp(749,66): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\ApexDMA\Render.cpp(934,67): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\ApexDMA\Render.cpp(935,67): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\ApexDMA\Render.cpp(936,67): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\ApexDMA\Render.cpp(947,70): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\ApexDMA\Render.cpp(948,70): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\ApexDMA\Render.cpp(949,70): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\ApexDMA\Render.cpp(960,66): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\ApexDMA\Render.cpp(961,66): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\ApexDMA\Render.cpp(962,66): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  正在生成代码
+  2 of 3041 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    28 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Apex.vcxproj -> D:\ApexDMA\x64\Release\FUN Plus+.exe
+  'pwsh.exe' 不是内部或外部命令，也不是可运行的程序
+  或批处理文件。

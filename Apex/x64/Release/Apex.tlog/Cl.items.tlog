@@ -1,0 +1,16 @@
+D:\ApexDMA\DMALibrary\DMALibrary.cpp;D:\ApexDMA\Apex\x64\Release\DMALibrary.obj
+D:\ApexDMA\DMALibrary\Memory\InputManager.cpp;D:\ApexDMA\Apex\x64\Release\InputManager.obj
+D:\ApexDMA\DMALibrary\Memory\Memory.cpp;D:\ApexDMA\Apex\x64\Release\Memory.obj
+D:\ApexDMA\DMALibrary\Memory\Registry.cpp;D:\ApexDMA\Apex\x64\Release\Registry.obj
+D:\ApexDMA\DMALibrary\Memory\Shellcode.cpp;D:\ApexDMA\Apex\x64\Release\Shellcode.obj
+D:\ApexDMA\DMALibrary\pch.cpp;D:\ApexDMA\Apex\x64\Release\pch.obj
+D:\ApexDMA\Config.hpp;D:\ApexDMA\Apex\x64\Release\Config.obj
+D:\ApexDMA\ImGui\imgui.cpp;D:\ApexDMA\Apex\x64\Release\imgui.obj
+D:\ApexDMA\ImGui\imgui_draw.cpp;D:\ApexDMA\Apex\x64\Release\imgui_draw.obj
+D:\ApexDMA\ImGui\imgui_impl_dx11.cpp;D:\ApexDMA\Apex\x64\Release\imgui_impl_dx11.obj
+D:\ApexDMA\ImGui\imgui_impl_win32.cpp;D:\ApexDMA\Apex\x64\Release\imgui_impl_win32.obj
+D:\ApexDMA\ImGui\imgui_tables.cpp;D:\ApexDMA\Apex\x64\Release\imgui_tables.obj
+D:\ApexDMA\ImGui\imgui_widgets.cpp;D:\ApexDMA\Apex\x64\Release\imgui_widgets.obj
+D:\ApexDMA\KmboxNet.cpp;D:\ApexDMA\Apex\x64\Release\KmboxNet.obj
+D:\ApexDMA\main.cpp;D:\ApexDMA\Apex\x64\Release\main.obj
+D:\ApexDMA\Render.cpp;D:\ApexDMA\Apex\x64\Release\Render.obj
